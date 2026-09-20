@@ -9,7 +9,7 @@
 ]]
 
 
-local COMMUNITY_LINK = "https://abre.ai/sDQN"
+local COMMUNITY_LINK = "https://abre.ai/s1cO"
 local VALID_KEY = "SUA_KEY_AQ"
 
 
